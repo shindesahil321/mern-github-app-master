@@ -2,7 +2,7 @@
 
 ![Demo App](https://i.ibb.co/xfpddW2/Screenshot-22.png)
 
-[Video Tutorial on Youtube](https://youtu.be/P6UyvDhNTbg)
+
 
 Some Features:
 
