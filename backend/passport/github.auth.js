@@ -23,7 +23,7 @@ passport.use(
 		{
 			clientID: "7b42180350f278e1928d",
 			clientSecret: "fa71a89668ad2ff05b4f5f04f8a32ae25f8924c4",
-			callbackURL: "http://localhost:5000/api/auth/github/callback",
+			callbackURL: "https://mern-github-app-master.onrender.com/api/auth/github/callback",
 		},
 		async function (accessToken, refreshToken, profile, done) {
 			const user = await User.findOne({ username: profile.username });
